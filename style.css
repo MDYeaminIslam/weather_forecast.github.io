@@ -76,6 +76,7 @@ h2:hover{
 
 
 .header{
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
