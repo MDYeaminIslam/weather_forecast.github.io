@@ -76,7 +76,10 @@ h2:hover{
 
 
 .header{
-  margin: 20px 0px 20px 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
   font-size: 20px;
   font-weight: 100px;
   color: #d5eeff;
